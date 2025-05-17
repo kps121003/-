@@ -229,4 +229,4 @@ async def 자판기(ctx):
     await ctx.send(content=f"{ctx.author.mention}님, 자판기에 오신 것을 환영합니다!", embed=embed, view=view)
 
 
-bot.run("MTM3MzIzMDc3Mzk2ODA0NDA2Mg.GXU5By.fI3kz8wrvBB_tFe2UANdqY3VjWEngvn41JNebg")
+bot.run("MTM3MzIzMDc3Mzk2ODA0NDA2Mg.GNQLKx.aIktPt2HI7lVknB3HYbndXFGi9Bo2TTePz5LP8")
